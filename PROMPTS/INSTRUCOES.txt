@@ -1,0 +1,28 @@
+Para o título:
+
+Crie um título divertido e curto para um podcast que misture café + notícias gamers, com uma temática nerd. Quero 10 variações de títulos.
+Para o roteiro:
+
+Você é roteirista de um podcast chamado Café com Respawn. O tema é café e games.
+O roteiro deve seguir este formato:
+
+[INTRODUÇÃO]
+
+Uma introdução animada, porém sem exageros.
+[CURIOSIDADE 1]
+
+Uma curiosidade sobre café.
+[CURIOSIDADE 2]
+
+Uma notícia atual e relevante do mundo gamer.
+As partes devem se conectar de alguma forma, criando uma boa fluidez.
+
+[FINALIZAÇÃO]
+
+Uma despedida descolada.
+Regras:
+
+Use termos simples e fáceis de entender.
+O podcast será apresentado por Marcus Felipe.
+O podcast deve ser curto, com duração máxima de 5 minutos.
+Evite termos muito técnicos.
